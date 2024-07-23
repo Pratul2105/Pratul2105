@@ -2,9 +2,6 @@
 - 👀 I’m interested in AIML
 - 🌱 I’m currently learning AI, Python and Machine Learning.
 
-- How to reach me
-  : instagram:- https://www.instagram.com/pratul._.pandey/?hl=en
-  : Linkedin:-https://www.linkedin.com/in/pratul-k-21nov05/
 
 
 <!---
